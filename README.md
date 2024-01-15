@@ -1,5 +1,5 @@
 # teaCollector
-Test
+Implemented finance management functionalities for tea tea-collecting web application that was made for a tea factory by using MERN stack technology.
 
 ![Sign up](https://github.com/OKWijewardena/Tea-Collecting-Website/assets/89722985/d6f4087d-b7a1-42bb-b8f6-b4c944d8c1d6)
 ![Desktop - 1](https://github.com/OKWijewardena/Tea-Collecting-Website/assets/89722985/3ff595d4-e46e-4ca8-9028-1ab1498e58d0)
